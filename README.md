@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Okeyo
 - 👀 I’m interested in Web Development
-- Reach me through my Instagram below
+- Reach me through my Instagram. Link on Profile. 
 
 
 <!---
